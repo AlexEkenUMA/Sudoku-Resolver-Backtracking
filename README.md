@@ -1,5 +1,5 @@
 # Sudoku Resolver using Backtracking Algorithm
-This algorithm shows all posible solutions to a sudoku given an input.
+This resolver shows all posible solutions to a sudoku given an input using backtracking.
 
 ### To add an input
 You can do it by changing the parameter of the sudoku object created in the main function of TableroSudoku class.
